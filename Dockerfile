@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.40.2
+FROM gcr.io/google-samples/hello-app:1.0
